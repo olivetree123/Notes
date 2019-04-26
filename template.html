@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{.Doc.title}}</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.8.0/github-markdown.css">
+  <style>
+    .markdown-body {
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 45px;
+    }
+    .menu {
+        width: 900px;
+        font-size: 26px;
+        font-family:HanziPen SC;
+        color: black;
+        /* border: solid; */
+        margin: 0 auto;
+    }
+    .menu a{
+        text-decoration:none;
+        color: black;
+    }
+  </style>
+</head>
+<body>
+    <div class="menu">
+        <span><a href="/">首页</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span><a href="/Notes/README">随笔</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span><a href="/Protocol/README">协议</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span><a href="/ProductNotes/README">产品手记</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span><a href="">关于</a></span>
+    </div>
+  <div class="markdown-body">
+    {{.Doc.body}}
+  </div>
+</body>
+</html>

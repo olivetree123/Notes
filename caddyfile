@@ -1,0 +1,17 @@
+
+:80 {
+    gzip
+    log stdout
+    git {
+        repo    https://github.com/olivetree123/Notes.git
+        path    /root/code/Notes
+        hook    /notes/hook     gaojian@h3c.com
+    }
+    markdown {
+        ext .md
+        template template.html
+    }
+    index index.md
+    ext .md
+    root /root/code/Notes
+}
