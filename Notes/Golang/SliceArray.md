@@ -42,5 +42,5 @@ sl := value[2:5]
 ```
 
 ### 参考
-> [slice 与 array 的区别](https://segmentfault.com/a/1190000013148775)
+> [slice 与 array 的区别](https://segmentfault.com/a/1190000013148775)  
 > [Part 11: Arrays and Slices](https://golangbot.com/arrays-and-slices/)
