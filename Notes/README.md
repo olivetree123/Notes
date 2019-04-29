@@ -9,6 +9,7 @@
 
 ## Other
 1. [字符编码](./Other/字符编码.md)
+1. [服务器环境部署](./Other/服务器环境部署.md)
 
 ## A & Q
 1. [Gunicorn 一直重启](./Questions/Gunicorn一直重启.md)

@@ -11,6 +11,7 @@
 
 ### Other
 1. [字符编码](./Notes/Other/字符编码.md)
+1. [服务器环境部署](./Notes/Other/服务器环境部署.md)
 
 ## Protocol
 1. 概述
