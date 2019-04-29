@@ -1,9 +1,9 @@
 
 ## Golang
-1. [HTTP参数解析](./Notes/Golang/HTTP参数解析.md)
-2. [类型转换](./Notes/Golang/类型转换.md)
-3. [理解mutex](./Notes/Golang/理解mutex.md)
-4. [Slice & Array](./Notes/Golang/SliceArray.md)
+1. [HTTP参数解析](./Golang/HTTP参数解析.md)
+2. [类型转换](./Golang/类型转换.md)
+3. [理解mutex](./Golang/理解mutex.md)
+4. [Slice & Array](./Golang/SliceArray.md)
 
 ## Python
 
