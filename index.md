@@ -9,6 +9,9 @@
 
 ### Python
 
+### Other
+1. [字符编码](./Notes/Other/字符编码.md)
+
 ## Protocol
 1. 概述
 2. 物理层
